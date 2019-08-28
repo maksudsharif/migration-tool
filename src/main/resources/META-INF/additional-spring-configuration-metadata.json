@@ -1,0 +1,104 @@
+{
+    "properties": [
+        {
+            "name": "migration.input.directory",
+            "type": "java.lang.String",
+            "description": "Path to directory that contains Excel files."
+        },
+        {
+            "name": "migration.output.directory",
+            "type": "java.lang.String",
+            "description": "Path to directory that will be used to output results."
+        },
+        {
+            "name": "migration.error.directory",
+            "type": "java.lang.String",
+            "description": "Path to directory that will be used to store errors."
+        },
+        {
+            "name": "arkcase.base.url",
+            "type": "java.lang.String",
+            "description": "ArkCase Base URL"
+        },
+        {
+            "name": "arkcase.protocol",
+            "type": "java.lang.String",
+            "description": "ArkCase protocol (http or https)"
+        },
+        {
+            "name": "arkcase.port",
+            "type": "java.lang.String",
+            "description": "ArkCase port"
+        },
+        {
+            "name": "arkcase.username",
+            "type": "java.lang.String",
+            "description": "ArkCase user name"
+        },
+        {
+            "name": "arkcase.password",
+            "type": "java.lang.String",
+            "description": "ArkCase user password"
+        },
+        {
+            "name": "migration.createCertificateHolders",
+            "type": "java.lang.String",
+            "description": "Create only certificate holders."
+        },
+        {
+            "name": "migration.createNonCertificateHolders",
+            "type": "java.lang.String",
+            "description": "Create only non-certificate holders."
+        },
+        {
+            "name": "arkcase.solr.protocol",
+            "type": "java.lang.String",
+            "description": "Arkcase solr protocol."
+        },
+        {
+            "name": "arkcase.solr.host",
+            "type": "java.lang.String",
+            "description": "ArkCase solr host."
+        },
+        {
+            "name": "arkcase.solr.port",
+            "type": "java.lang.String",
+            "description": "ArkCase solr port."
+        },
+        {
+            "name": "arkcase.solr.context",
+            "type": "java.lang.String",
+            "description": "ArkCase solr context."
+        },
+        {
+            "name": "migration.createOrganizations",
+            "type": "java.lang.String",
+            "description": "Direct migration process to create Organizations in ArkCase."
+        },
+        {
+            "name": "migration.validateOnly",
+            "type": "java.lang.String",
+            "description": "Run migration utility in validation mode. Will only output validation results."
+        },
+        {
+            "name": "arkcase.solr.collection",
+            "type": "java.lang.String",
+            "description": "Defines which Solr collection/core migration utility will use to find certificate holders."
+        },
+        {
+            "name": "migration.indexOnly",
+            "type": "java.lang.String",
+            "description": "Direct migration process to only do a re-index."
+        },
+        {
+            "name": "arkcase.jsessionId",
+            "type": "java.lang.String",
+            "description": "JSESSIONID to use for authentication instead of user/pass."
+        },
+        {
+            "name": "migration.executorId",
+            "type": "java.lang.String",
+            "description": "Which Migration executor to invoke"
+        }
+    ]
+}

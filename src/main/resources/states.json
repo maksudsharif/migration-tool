@@ -1,0 +1,596 @@
+{
+    "AU": [
+        {
+            "name": "Australian Capital Territory",
+            "code": "ACT"
+        },
+        {
+            "name": "New South Wales",
+            "code": "NSW"
+        },
+        {
+            "name": "Northern Territory",
+            "code": "NT"
+        },
+        {
+            "name": "Queensland",
+            "code": "QLD"
+        },
+        {
+            "name": "South Australia",
+            "code": "SA"
+        },
+        {
+            "name": "Tasmania",
+            "code": "TAS"
+        },
+        {
+            "name": "Victoria",
+            "code": "VIC"
+        },
+        {
+            "name": "Western Australia",
+            "code": "WA"
+        }
+    ],
+    "BR": [
+        {
+            "name": "Acre",
+            "code": "AC"
+        },
+        {
+            "name": "Alagoas",
+            "code": "AL"
+        },
+        {
+            "name": "Amapá",
+            "code": "AP"
+        },
+        {
+            "name": "Amazonas",
+            "code": "AM"
+        },
+        {
+            "name": "Bahía",
+            "code": "BA"
+        },
+        {
+            "name": "Ceará",
+            "code": "CE"
+        },
+        {
+            "name": "Distrito Federal",
+            "code": "DF"
+        },
+        {
+            "name": "Espirito Santo",
+            "code": "ES"
+        },
+        {
+            "name": "Goiás",
+            "code": "GO"
+        },
+        {
+            "name": "Maranhão",
+            "code": "MA"
+        },
+        {
+            "name": "Mato Grosso",
+            "code": "MT"
+        },
+        {
+            "name": "Mato Grosso do Sul",
+            "code": "MS"
+        },
+        {
+            "name": "Minas Geraís",
+            "code": "MG"
+        },
+        {
+            "name": "Paraná",
+            "code": "PR"
+        },
+        {
+            "name": "Paraíba",
+            "code": "PB"
+        },
+        {
+            "name": "Pará",
+            "code": "PA"
+        },
+        {
+            "name": "Pernambuco",
+            "code": "PE"
+        },
+        {
+            "name": "Piauí",
+            "code": "PI"
+        },
+        {
+            "name": "Rio Grande do Norte",
+            "code": "RN"
+        },
+        {
+            "name": "Rio Grande do Sul",
+            "code": "RS"
+        },
+        {
+            "name": "Rio de Janeiro",
+            "code": "RJ"
+        },
+        {
+            "name": "Rondônia",
+            "code": "RO"
+        },
+        {
+            "name": "Roraima",
+            "code": "RR"
+        },
+        {
+            "name": "Santa Catarina",
+            "code": "SC"
+        },
+        {
+            "name": "Sergipe",
+            "code": "SE"
+        },
+        {
+            "name": "São Paulo",
+            "code": "SP"
+        },
+        {
+            "name": "Tocantins",
+            "code": "TO"
+        }
+    ],
+    "CA": [
+        {
+            "name": "Alberta",
+            "code": "AB"
+        },
+        {
+            "name": "British Columbia",
+            "code": "BC"
+        },
+        {
+            "name": "Manitoba",
+            "code": "MB"
+        },
+        {
+            "name": "New Brunswick",
+            "code": "NB"
+        },
+        {
+            "name": "Newfoundland and Labrador",
+            "code": "NL"
+        },
+        {
+            "name": "Northwest Territories",
+            "code": "NT"
+        },
+        {
+            "name": "Nova Scotia",
+            "code": "NS"
+        },
+        {
+            "name": "Nunavut",
+            "code": "NU"
+        },
+        {
+            "name": "Ontario",
+            "code": "ON"
+        },
+        {
+            "name": "Prince Edward Island",
+            "code": "PE"
+        },
+        {
+            "name": "Québec",
+            "code": "QC"
+        },
+        {
+            "name": "Saskatchewan",
+            "code": "SK"
+        },
+        {
+            "name": "Yukon",
+            "code": "YT"
+        }
+    ],
+    "JP": [
+        {
+            "name": "Aichi",
+            "code": "Aichi"
+        },
+        {
+            "name": "Akita",
+            "code": "Akita"
+        },
+        {
+            "name": "Aomori",
+            "code": "Aomori"
+        },
+        {
+            "name": "Chiba",
+            "code": "Chiba"
+        },
+        {
+            "name": "Ehime",
+            "code": "Ehime"
+        },
+        {
+            "name": "Fukui",
+            "code": "Fukui"
+        },
+        {
+            "name": "Fukuoka",
+            "code": "Fukuoka"
+        },
+        {
+            "name": "Fukushima",
+            "code": "Fukushima"
+        },
+        {
+            "name": "Gifu",
+            "code": "Gifu"
+        },
+        {
+            "name": "Gunma",
+            "code": "Gunma"
+        },
+        {
+            "name": "Hiroshima",
+            "code": "Hiroshima"
+        },
+        {
+            "name": "Hokkaido",
+            "code": "Hokkaido"
+        },
+        {
+            "name": "Hyōgo",
+            "code": "Hyōgo"
+        },
+        {
+            "name": "Ibaraki",
+            "code": "Ibaraki"
+        },
+        {
+            "name": "Ishikawa",
+            "code": "Ishikawa"
+        },
+        {
+            "name": "Iwate",
+            "code": "Iwate"
+        },
+        {
+            "name": "Kagawa",
+            "code": "Kagawa"
+        },
+        {
+            "name": "Kagoshima",
+            "code": "Kagoshima"
+        },
+        {
+            "name": "Kanagawa",
+            "code": "Kanagawa"
+        },
+        {
+            "name": "Kōchi",
+            "code": "Kōchi"
+        },
+        {
+            "name": "Kumamoto",
+            "code": "Kumamoto"
+        },
+        {
+            "name": "Kyoto",
+            "code": "Kyoto"
+        },
+        {
+            "name": "Mie",
+            "code": "Mie"
+        },
+        {
+            "name": "Miyagi",
+            "code": "Miyagi"
+        },
+        {
+            "name": "Miyazaki",
+            "code": "Miyazaki"
+        },
+        {
+            "name": "Nagano",
+            "code": "Nagano"
+        },
+        {
+            "name": "Nagasaki",
+            "code": "Nagasaki"
+        },
+        {
+            "name": "Nara",
+            "code": "Nara"
+        },
+        {
+            "name": "Niigata",
+            "code": "Niigata"
+        },
+        {
+            "name": "Ōita",
+            "code": "Ōita"
+        },
+        {
+            "name": "Okayama",
+            "code": "Okayama"
+        },
+        {
+            "name": "Okinawa",
+            "code": "Okinawa"
+        },
+        {
+            "name": "Osaka",
+            "code": "Osaka"
+        },
+        {
+            "name": "Saga",
+            "code": "Saga"
+        },
+        {
+            "name": "Saitama",
+            "code": "Saitama"
+        },
+        {
+            "name": "Shiga",
+            "code": "Shiga"
+        },
+        {
+            "name": "Shimane",
+            "code": "Shimane"
+        },
+        {
+            "name": "Shizuoka",
+            "code": "Shizuoka"
+        },
+        {
+            "name": "Tochigi",
+            "code": "Tochigi"
+        },
+        {
+            "name": "Tokushima",
+            "code": "Tokushima"
+        },
+        {
+            "name": "Tokyo",
+            "code": "Tokyo"
+        },
+        {
+            "name": "Tottori",
+            "code": "Tottori"
+        },
+        {
+            "name": "Toyama",
+            "code": "Toyama"
+        },
+        {
+            "name": "Wakayama",
+            "code": "Wakayama"
+        },
+        {
+            "name": "Yamagata",
+            "code": "Yamagata"
+        },
+        {
+            "name": "Yamaguchi",
+            "code": "Yamaguchi"
+        },
+        {
+            "name": "Yamanashi",
+            "code": "Yamanashi"
+        }
+    ],
+    "US": [
+        {
+            "name": "Alaska",
+            "code": "AK"
+        },
+        {
+            "name": "Alabama",
+            "code": "AL"
+        },
+        {
+            "name": "Arkansas",
+            "code": "AR"
+        },
+        {
+            "name": "Arizona",
+            "code": "AZ"
+        },
+        {
+            "name": "California",
+            "code": "CA"
+        },
+        {
+            "name": "Colorado",
+            "code": "CO"
+        },
+        {
+            "name": "Connecticut",
+            "code": "CT"
+        },
+        {
+            "name": "District of Columbia",
+            "code": "DC"
+        },
+        {
+            "name": "Delaware",
+            "code": "DE"
+        },
+        {
+            "name": "Florida",
+            "code": "FL"
+        },
+        {
+            "name": "Georgia",
+            "code": "GA"
+        },
+        {
+            "name": "Hawaii",
+            "code": "HI"
+        },
+        {
+            "name": "Iowa",
+            "code": "IA"
+        },
+        {
+            "name": "Idaho",
+            "code": "ID"
+        },
+        {
+            "name": "Illinois",
+            "code": "IL"
+        },
+        {
+            "name": "Indiana",
+            "code": "IN"
+        },
+        {
+            "name": "Kansas",
+            "code": "KS"
+        },
+        {
+            "name": "Kentucky",
+            "code": "KY"
+        },
+        {
+            "name": "Louisiana",
+            "code": "LA"
+        },
+        {
+            "name": "Massachusetts",
+            "code": "MA"
+        },
+        {
+            "name": "Maryland",
+            "code": "MD"
+        },
+        {
+            "name": "Maine",
+            "code": "ME"
+        },
+        {
+            "name": "Michigan",
+            "code": "MI"
+        },
+        {
+            "name": "Minnesota",
+            "code": "MN"
+        },
+        {
+            "name": "Missouri",
+            "code": "MO"
+        },
+        {
+            "name": "Mississippi",
+            "code": "MS"
+        },
+        {
+            "name": "Montana",
+            "code": "MT"
+        },
+        {
+            "name": "North Carolina",
+            "code": "NC"
+        },
+        {
+            "name": "North Dakota",
+            "code": "ND"
+        },
+        {
+            "name": "Nebraska",
+            "code": "NE"
+        },
+        {
+            "name": "New Hampshire",
+            "code": "NH"
+        },
+        {
+            "name": "New Jersey",
+            "code": "NJ"
+        },
+        {
+            "name": "New Mexico",
+            "code": "NM"
+        },
+        {
+            "name": "Nevada",
+            "code": "NV"
+        },
+        {
+            "name": "New York",
+            "code": "NY"
+        },
+        {
+            "name": "Ohio",
+            "code": "OH"
+        },
+        {
+            "name": "Oklahoma",
+            "code": "OK"
+        },
+        {
+            "name": "Oregon",
+            "code": "OR"
+        },
+        {
+            "name": "Pennsylvania",
+            "code": "PA"
+        },
+        {
+            "name": "Rhode Island",
+            "code": "RI"
+        },
+        {
+            "name": "South Carolina",
+            "code": "SC"
+        },
+        {
+            "name": "South Dakota",
+            "code": "SD"
+        },
+        {
+            "name": "Tennessee",
+            "code": "TN"
+        },
+        {
+            "name": "Texas",
+            "code": "TX"
+        },
+        {
+            "name": "Utah",
+            "code": "UT"
+        },
+        {
+            "name": "Virginia",
+            "code": "VA"
+        },
+        {
+            "name": "Vermont",
+            "code": "VT"
+        },
+        {
+            "name": "Washington",
+            "code": "WA"
+        },
+        {
+            "name": "Wisconsin",
+            "code": "WI"
+        },
+        {
+            "name": "West Virginia",
+            "code": "WV"
+        },
+        {
+            "name": "Wyoming",
+            "code": "WY"
+        }
+    ]
+}

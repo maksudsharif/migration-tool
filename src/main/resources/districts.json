@@ -1,0 +1,82 @@
+[
+    {
+        "name": "ATL-DO",
+        "code": "ATL-DO"
+    },
+    {
+        "name": "BLT-DO",
+        "code": "BLT-DO"
+    },
+    {
+        "name": "CHI-DO",
+        "code": "CHI-DO"
+    },
+    {
+        "name": "CIN-DO",
+        "code": "CIN-DO"
+    },
+    {
+        "name": "DAL-DO",
+        "code": "DAL-DO"
+    },
+    {
+        "name": "DEN-DO",
+        "code": "DEN-DO"
+    },
+    {
+        "name": "DET-DO",
+        "code": "DET-DO"
+    },
+    {
+        "name": "FLA-DO",
+        "code": "FLA-DO"
+    },
+    {
+        "name": "KAN-DO",
+        "code": "KAN-DO"
+    },
+    {
+        "name": "LOS-DO",
+        "code": "LOS-DO"
+    },
+    {
+        "name": "MIN-DO",
+        "code": "MIN-DO"
+    },
+    {
+        "name": "NOL-DO",
+        "code": "NOL-DO"
+    },
+    {
+        "name": "NWE-DO",
+        "code": "NWE-DO"
+    },
+    {
+        "name": "NWJ-DO",
+        "code": "NWJ-DO"
+    },
+    {
+        "name": "NYK-DO",
+        "code": "NYK-DO"
+    },
+    {
+        "name": "PHI-DO",
+        "code": "PHI-DO"
+    },
+    {
+        "name": "SAN-DO",
+        "code": "SAN-DO"
+    },
+    {
+        "name": "SEA-DO",
+        "code": "SEA-DO"
+    },
+    {
+        "name": "SJN-DO",
+        "code": "SJN-DO"
+    },
+    {
+        "name": "CDRH",
+        "code": "CDRH"
+    }
+]
